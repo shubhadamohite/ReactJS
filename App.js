@@ -27,7 +27,7 @@ import TablePagination from '@material-ui/core/TablePagination';
 
 
     
-    const api_url = 'https://0wonie064c.execute-api.ap-southeast-1.amazonaws.com/prod/mock/reacttest';
+    const api_url = '';
     
 
 
